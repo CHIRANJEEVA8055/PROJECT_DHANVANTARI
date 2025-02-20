@@ -1,0 +1,14 @@
+# Add required dependencies here
+torch
+torchvision
+torchaudio
+tensorflow
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+opencv-python
+transformers
+datasets
+tqdm
