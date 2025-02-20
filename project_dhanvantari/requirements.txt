@@ -12,3 +12,4 @@ opencv-python
 transformers
 datasets
 tqdm
+joblib
